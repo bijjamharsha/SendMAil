@@ -58,7 +58,7 @@ app.post('/login', (req, res) => {
     } else {
       res.status(401).send('Invalid username or password');
     }
-  });
+  });g
 });
 
 // Protected Route

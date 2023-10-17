@@ -12,7 +12,7 @@ const nodemailer=require('nodemailer');
             user:'bijjamharshareddy123@gmail.com',
             pass:'zfrvrmjxkcuriznl'
         }
-    });
+    });//kkkk
     const mailOptions={
         from:'bijjamharshareddy123@gmail.com',
         to:'bijjamharshareddy555@gmail.com',

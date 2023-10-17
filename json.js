@@ -18,7 +18,7 @@ const nodemailer=require('nodeemiler');
         subject:subject,
         text:'this is a test mail'
 
-    };
+    };//kkk
     transporter.sendMail(mailOptions,function(error){
         if(error){
             console.log(error);
